@@ -1,0 +1,12 @@
+{
+    "name": "hexlet/code",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Illia Astakhov",
+            "email": "astakhovillia@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
